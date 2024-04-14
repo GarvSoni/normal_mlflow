@@ -5,7 +5,8 @@ __pycache__/
 
 Data/
 Data/*
-.env
+test/.env
+
 archive (1).zip
 
 # C extensions
